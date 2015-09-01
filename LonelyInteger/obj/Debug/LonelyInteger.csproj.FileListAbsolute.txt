@@ -1,0 +1,6 @@
+C:\Practice Sols\Algos\LonelyInteger\bin\Debug\LonelyInteger.exe.config
+C:\Practice Sols\Algos\LonelyInteger\bin\Debug\LonelyInteger.exe
+C:\Practice Sols\Algos\LonelyInteger\bin\Debug\LonelyInteger.pdb
+C:\Practice Sols\Algos\LonelyInteger\obj\Debug\LonelyInteger.csprojResolveAssemblyReference.cache
+C:\Practice Sols\Algos\LonelyInteger\obj\Debug\LonelyInteger.exe
+C:\Practice Sols\Algos\LonelyInteger\obj\Debug\LonelyInteger.pdb

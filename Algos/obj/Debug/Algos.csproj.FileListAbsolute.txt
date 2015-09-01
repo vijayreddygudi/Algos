@@ -1,0 +1,6 @@
+C:\Practice Sols\Algos\Algos\bin\Debug\Algos.exe.config
+C:\Practice Sols\Algos\Algos\bin\Debug\Algos.exe
+C:\Practice Sols\Algos\Algos\bin\Debug\Algos.pdb
+C:\Practice Sols\Algos\Algos\obj\Debug\Algos.csprojResolveAssemblyReference.cache
+C:\Practice Sols\Algos\Algos\obj\Debug\Algos.exe
+C:\Practice Sols\Algos\Algos\obj\Debug\Algos.pdb

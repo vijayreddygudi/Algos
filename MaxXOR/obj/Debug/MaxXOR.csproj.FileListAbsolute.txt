@@ -1,0 +1,6 @@
+C:\Practice Sols\Algos\MaxXOR\bin\Debug\MaxXOR.exe.config
+C:\Practice Sols\Algos\MaxXOR\bin\Debug\MaxXOR.exe
+C:\Practice Sols\Algos\MaxXOR\bin\Debug\MaxXOR.pdb
+C:\Practice Sols\Algos\MaxXOR\obj\Debug\MaxXOR.csprojResolveAssemblyReference.cache
+C:\Practice Sols\Algos\MaxXOR\obj\Debug\MaxXOR.exe
+C:\Practice Sols\Algos\MaxXOR\obj\Debug\MaxXOR.pdb

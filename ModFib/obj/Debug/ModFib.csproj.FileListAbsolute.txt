@@ -1,0 +1,6 @@
+C:\Practice Sols\Algos\ModFib\bin\Debug\ModFib.exe.config
+C:\Practice Sols\Algos\ModFib\bin\Debug\ModFib.exe
+C:\Practice Sols\Algos\ModFib\bin\Debug\ModFib.pdb
+C:\Practice Sols\Algos\ModFib\obj\Debug\ModFib.exe
+C:\Practice Sols\Algos\ModFib\obj\Debug\ModFib.pdb
+C:\Practice Sols\Algos\ModFib\obj\Debug\ModFib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Practice Sols\Algos\LeftViewOfBTree\bin\Debug\LeftViewOfBTree.exe.config
+C:\Practice Sols\Algos\LeftViewOfBTree\bin\Debug\LeftViewOfBTree.exe
+C:\Practice Sols\Algos\LeftViewOfBTree\bin\Debug\LeftViewOfBTree.pdb
+C:\Practice Sols\Algos\LeftViewOfBTree\obj\Debug\LeftViewOfBTree.csprojResolveAssemblyReference.cache
+C:\Practice Sols\Algos\LeftViewOfBTree\obj\Debug\LeftViewOfBTree.exe
+C:\Practice Sols\Algos\LeftViewOfBTree\obj\Debug\LeftViewOfBTree.pdb
